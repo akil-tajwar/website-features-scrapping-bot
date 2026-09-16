@@ -1,0 +1,5 @@
+progress.sqlite3
+/output/*
+/screenshots/*
+config.bat
+node_modules
